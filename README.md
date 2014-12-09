@@ -1,6 +1,9 @@
 Python
 ======
 
-learn Python 
+Learn Python Programming languages
 
-this is repository that is I learn Python code
+This is repository that is I learn Python code.
+like:
+  Knowledge points,example,exercise about Python in learn 
+
