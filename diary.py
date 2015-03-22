@@ -26,3 +26,6 @@ modify by wxb on Linux(vm-centos-wxb)
  
 date:201503221457
 handle fatal bug by wangxiaob on branch windows
+
+date:201503221522
+handle second bug by wangxiaob on branch windows
