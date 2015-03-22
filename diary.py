@@ -29,3 +29,6 @@ handle fatal bug by wangxiaob on branch windows
 
 date:201503221522
 handle second bug by wangxiaob on branch windows
+
+date:201503221526
+handle fatal bug 3 by wangxiaob on branch windows
