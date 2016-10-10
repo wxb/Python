@@ -1,4 +1,4 @@
-Python
+PythonLab
 ======
 
 Learn Python Programming languages
